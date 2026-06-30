@@ -5,16 +5,6 @@
 A relational SQL database for managing employees, departments, projects, attendance, leave, and salary records — built the way real HR and payroll backends are designed.
 
 
-
-<p align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-</p>
-
 📌 Project Overview
 
 The Employee Management Database System is a SQL-based relational database designed to model the core data layer of a real-world HR/payroll application. It manages employees, departments, project assignments, attendance, leave requests, and salary records.

@@ -1,3 +1,4 @@
+
 🧑‍💼 Employee Management Database System
 
 
@@ -261,8 +262,6 @@ Ghouse
 GitHub: @ghouse-codes
 Project: employee-management-database
 
-
-<p align="center">⭐ If you found this project useful, consider giving it a star!</p>
 
 
 <p align="center">⭐ If you found this project useful, consider giving it a star!</p>

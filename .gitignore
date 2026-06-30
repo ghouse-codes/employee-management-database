@@ -1,0 +1,13 @@
+```gitignore id="g3m8k2"
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# VS Code settings
+.vscode/

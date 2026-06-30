@@ -1,0 +1,29 @@
+
+employee _project
+employee_id
+project id
+department
+department id 9
+department_name
+location
+int
+int
+int
+varchar
+varchar
+project
+project id &
+project_name
+int
+varchar
+employee
+employee id @
+first name
+last name
+email
+department id
+int
+varchar
+varchar
+varchar
+int
